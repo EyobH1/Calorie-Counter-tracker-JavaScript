@@ -9,4 +9,10 @@ HTML5: For semantic structure and form inputs.
 CSS3: For responsive styling, animations, and progress bar design (Flexbox/Grid).
 JavaScript (ES6+): For all application logic, DOM manipulation, and local storage functionality.
 🚀 Demo
-View Live Demo
+[View Live Demo](https://eyobh1.github.io/Calorie-Counter-tracker-JavaScript/)
+💡 How to Use
+1. Set Your Daily Budget: Enter your target calorie budget for the day.
+2. Add Food Items: Fill in the food name, calorie amount, and select the meal category, then click "Add Entry."
+3. Manage Your Entries: Click the "clear" button to start over and switch between entries in the drop-down box.
+4. Stay on Track: The remaining calories update automatically, and you'll receive feedback when you exceed or meet your goal.
+
